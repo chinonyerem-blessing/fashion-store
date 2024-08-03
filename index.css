@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.hi{
+    background-image: url("make.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 20rem;
+    border-radius: 2rem;
+    background-blend-mode: darken;
+}
+.hi i{
+   color: white;
+   background-color: rgb(83, 80, 80);
+   padding: 1rem;
+   border-radius: 1rem;
+   margin-top: 1rem;
+   margin-left: 1rem;
+}
+.ri{
+   padding-top: 12rem;
+   color: rgb(235, 234, 234);
+   padding-left: 1rem;
+}
+.yu{
+   font-size: 2rem;
+   color: white;
+   padding-left: 1rem;
+   padding-bottom: 1rem;
+}
+button{
+    background-color: transparent;
+    width: 4rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin-top: 0.5rem;
+}
+button:hover{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 0.7rem;
+}
+a:hover{
+    color: white;
+}
+.ki{
+    background-color: white;
+    width: 20rem;
+    padding-left: 1rem;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px white;
+}
+.km{
+    font-weight: bold;
+    padding-top: 50px;
+}
+.jy{
+    display: flex;
+    
+}
+.kn i{
+    color: white;
+    background-color: rgb(83, 80, 80);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.iv{
+    color: white;
+    font-weight: lighter;
+    font-size: 11px;
+    padding-top: 40px;
+
+}
+.vi{
+   font-size: 20px;
+   color: white;
+   font-weight: bold;
+
+}
+.kn{
+    width: 20rem;
+    background-image: url("makeup.jpeg");
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.j{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 100px;
+}
